@@ -1,2 +1,7 @@
 bleh bleh bleh
-line 2
+changing line 2
+
+i'm adding this third line
+and this fourth line
+git should ignore these
+we'll see if it actually does
